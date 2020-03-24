@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Dev\Documents\LTOKiosk\LTOKiosk\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\CashPaymentView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\CreditCardView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\EnterPlateView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GCashView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PayMayaView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PaymentView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\RequirementCheckView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ThankYouView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\TransactionView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\VehicleDetailsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CashPaymentView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CreditCardView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\EnterPlateView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GCashView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PayMayaView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PaymentView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\RequirementCheckView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ThankYouView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\TransactionView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\VehicleDetailsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
